@@ -32,17 +32,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "During the coding training at **MolenGeek** I made a Todo List to practice ReactJS.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Va2/react-todo-list.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Va2/react-todo-list/issues"
-  },
-  "homepage": "https://github.com/Va2/react-todo-list#readme"
+  }
 }
